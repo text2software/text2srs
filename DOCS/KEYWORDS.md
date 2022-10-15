@@ -1,1 +1,3 @@
 Software-Requirement-Generator
+Software-Requirements-Specification
+software-requirements
